@@ -1,0 +1,16 @@
+/home/gabriel/dio-desafio-cadastro/dio.mangas/bin/Debug/net5.0/dio.mangas
+/home/gabriel/dio-desafio-cadastro/dio.mangas/bin/Debug/net5.0/dio.mangas.deps.json
+/home/gabriel/dio-desafio-cadastro/dio.mangas/bin/Debug/net5.0/dio.mangas.runtimeconfig.json
+/home/gabriel/dio-desafio-cadastro/dio.mangas/bin/Debug/net5.0/dio.mangas.runtimeconfig.dev.json
+/home/gabriel/dio-desafio-cadastro/dio.mangas/bin/Debug/net5.0/dio.mangas.dll
+/home/gabriel/dio-desafio-cadastro/dio.mangas/bin/Debug/net5.0/ref/dio.mangas.dll
+/home/gabriel/dio-desafio-cadastro/dio.mangas/bin/Debug/net5.0/dio.mangas.pdb
+/home/gabriel/dio-desafio-cadastro/dio.mangas/obj/Debug/net5.0/dio.mangas.csproj.AssemblyReference.cache
+/home/gabriel/dio-desafio-cadastro/dio.mangas/obj/Debug/net5.0/dio.mangas.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/dio-desafio-cadastro/dio.mangas/obj/Debug/net5.0/dio.mangas.AssemblyInfoInputs.cache
+/home/gabriel/dio-desafio-cadastro/dio.mangas/obj/Debug/net5.0/dio.mangas.AssemblyInfo.cs
+/home/gabriel/dio-desafio-cadastro/dio.mangas/obj/Debug/net5.0/dio.mangas.csproj.CoreCompileInputs.cache
+/home/gabriel/dio-desafio-cadastro/dio.mangas/obj/Debug/net5.0/dio.mangas.dll
+/home/gabriel/dio-desafio-cadastro/dio.mangas/obj/Debug/net5.0/ref/dio.mangas.dll
+/home/gabriel/dio-desafio-cadastro/dio.mangas/obj/Debug/net5.0/dio.mangas.pdb
+/home/gabriel/dio-desafio-cadastro/dio.mangas/obj/Debug/net5.0/dio.mangas.genruntimeconfig.cache
